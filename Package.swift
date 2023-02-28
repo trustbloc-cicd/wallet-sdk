@@ -9,9 +9,9 @@ SPDX-License-Identifier: Apache-2.0
 
 import PackageDescription
 
-let version = "0.3.2-SNAPSHOT-251f67b"
+let version = "0.3.2-SNAPSHOT-d3c98ce"
 let moduleName = "walletsdk"
-let checksum = "3b7272e2f6f87f07364b214b1c6d929d3fa17bb341699b8dac7ad877e6af66ee"
+let checksum = "bc2edade7e1cf3554ec8abf99a735c80941f01a83195fbcc91b9354f01b5978a"
 
 let package = Package(
     name: moduleName,
