@@ -11,7 +11,7 @@ import PackageDescription
 
 let version = "1.0.1-SNAPSHOT-566bac7"
 let moduleName = "walletsdk"
-let checksum = "e525767a6d92ef1b779a66615d120164e3ed7d1c3db9dab832be725719f1d862"
+let checksum = "b03f271429b95ccbcbab1ada61c459417a40a3e9f829add71473a6f0f23f0fdc"
 
 let package = Package(
     name: moduleName,
